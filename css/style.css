@@ -146,6 +146,19 @@ h2 {
   align-items: center;
 
 }
+@media (max-width: 572px){
+  #center_text{
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .content{
+    position: absolute;
+    top:0;
+    
+  }
+}
+
+
 
 @-webkit-keyframes opacity {
   0%, 100% {
