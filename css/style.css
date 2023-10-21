@@ -227,6 +227,7 @@ h2 {
 @media only screen and (max-width: 579px) {
   .content{
     overflow: visible;
+    padding: 0 40px;
   }
 }
 
